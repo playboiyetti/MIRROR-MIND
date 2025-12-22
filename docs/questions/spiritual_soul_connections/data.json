@@ -1,0 +1,158 @@
+{
+    "id": "spiritual_soul_connections",
+    "name": "Spiritual and Soul Connections",
+    "themeColor": "#AF7AC5",
+    "description": "Explore your relationship with the transcendent, the unseen, and the deeper meanings that anchor your existence.",
+    "questions": [
+        {
+            "id": "ssc_01",
+            "front": "Recall a moment you felt a profound sense of 'oneness' with everything around you—where were you?",
+            "back": "Moments of 'oneness' reveal your capacity for transcendent experiences and the environments that trigger spiritual resonance."
+        },
+        {
+            "id": "ssc_02",
+            "front": "What is one question you would ask the universe if you knew you would get a clear, honest answer?",
+            "back": "Your 'big question' highlights the central mystery or uncertainty that drives your search for meaning."
+        },
+        {
+            "id": "ssc_03",
+            "front": "Describe a 'coincidence' that felt far too meaningful to be random—what was the message?",
+            "back": "Significant coincidences (synchronicity) reveal how your mind seeks patterns and intent in the chaos of life."
+        },
+        {
+            "id": "ssc_04",
+            "front": "When do you feel your 'soul' is the most nourished in your daily life?",
+            "back": "Soul nourishment points to the activities that align you with your deepest purpose, beyond physical or social needs."
+        },
+        {
+            "id": "ssc_05",
+            "front": "What is a belief you hold about what happens to 'us' after this life—why do you hold it?",
+            "back": "Afterlife beliefs act as psychological buffers against the fear of mortality and shape how you value your current actions."
+        },
+        {
+            "id": "ssc_06",
+            "front": "Have you ever felt a 'presence' or a guidance that seemed to come from outside yourself?",
+            "back": "Sensing outside guidance reveals your openness to the mystical and how you process intuition as external wisdom."
+        },
+        {
+            "id": "ssc_07",
+            "front": "What is a ritual or practice that makes you feel 'sanctified' or set apart from the mundane?",
+            "back": "Sanctifying rituals provide a sense of sacred order, helping you compartmentalize life's struggles from your higher self."
+        },
+        {
+            "id": "ssc_08",
+            "front": "What does the word 'spirit' mean to you in practical, everyday terms?",
+            "back": "Your practical definition of spirit shows how you integrate the intangible into your worldly decisions and ethics."
+        },
+        {
+            "id": "ssc_09",
+            "front": "Recall a time you felt 'called' to do something, even if it made no sense logically.",
+            "back": "The experience of being 'called' highlights the tension between your rational mind and the deeper, intuitive pulls of your destiny."
+        },
+        {
+            "id": "ssc_10",
+            "front": "What part of the natural world makes you feel closest to something 'divine'?",
+            "back": "The aspects of nature you find divine reveal your specific aesthetic and spiritual affinity for order, power, or beauty."
+        },
+        {
+            "id": "ssc_11",
+            "front": "If you could talk to your 'higher self,' what is one thing they would tell you to let go of right now?",
+            "back": "The higher self's advice is your own internalized wisdom, identifying the baggage that prevents your spiritual growth."
+        },
+        {
+            "id": "ssc_12",
+            "front": "What is a 'soul lesson' you feel you have been repeating throughout your life?",
+            "back": "Identifying recurring spiritual themes helps you recognize the deeper purpose behind your most persistent life challenges."
+        },
+        {
+            "id": "ssc_13",
+            "front": "How do you experience 'silence'—as a void to be filled, or a presence to be entered?",
+            "back": "Your relationship with silence indicates your level of comfort with your internal world and the state of your spiritual 'listening'."
+        },
+        {
+            "id": "ssc_14",
+            "front": "What is a 'sacred' object you keep—what power or memory do you believe it holds?",
+            "back": "Sacred objects are physical anchors for spiritual energy, representing the values and connections you wish to keep close."
+        },
+        {
+            "id": "ssc_15",
+            "front": "Recall a moment of deep suffering that ended up leading to a spiritual breakthrough.",
+            "back": "Breakthroughs after suffering highlight the transformative power of pain and how you find meaning in hardship."
+        },
+        {
+            "id": "ssc_16",
+            "front": "What is your 'personal prayer'—even if you don't call it that—that you say to yourself in hard times?",
+            "back": "Your personal 'prayer' or mantra is the ultimate self-soothing tool, reflecting your core belief about hope and resilience."
+        },
+        {
+            "id": "ssc_17",
+            "front": "What quality do you believe is 'eternal' in human beings, if any?",
+            "back": "The belief in eternal qualities reveals what you consider to be the most essential and indestructible part of human nature."
+        },
+        {
+            "id": "ssc_18",
+            "front": "How do you handle 'unanswered questions' about the universe—with frustration or curiosity?",
+            "back": "Your response to the unknown shows your capacity for 'negative capability'—the ability to remain in uncertainty without grasping for fact."
+        },
+        {
+            "id": "ssc_19",
+            "front": "What is a spiritual tradition or idea from a different culture that resonates with you?",
+            "back": "Cross-cultural resonance highlights the universal themes of the human spirit that transcend your specific upbringing."
+        },
+        {
+            "id": "ssc_20",
+            "front": "When you look at the stars, do you feel small and insignificant, or part of something vast?",
+            "back": "Your cosmic perspective reveals whether your spirituality is anchored in humility or in a sense of interconnected power."
+        },
+        {
+            "id": "ssc_21",
+            "front": "What is a 'soul connection' you've had with someone that defied logical explanation?",
+            "back": "Irrational connections highlight the subconscious and energetic bonds that influence your relational landscape."
+        },
+        {
+            "id": "ssc_22",
+            "front": "If you could design a ritual for forgiveness, what would the central action be?",
+            "back": "The structure of your forgiveness ritual reveals what you believe is required for true emotional and spiritual release."
+        },
+        {
+            "id": "ssc_23",
+            "front": "What does 'grace' feel like to you—is it earned, or is it a gift?",
+            "back": "Your definition of grace reveals your underlying beliefs about meritocracy, compassion, and the 'fairness' of the universe."
+        },
+        {
+            "id": "ssc_24",
+            "front": "Recall a time you felt 'protected' by something you couldn't see.",
+            "back": "Experiences of unseen protection foster a sense of being 'held' by life, reducing the existential anxiety of being alone."
+        },
+        {
+            "id": "ssc_25",
+            "front": "What is one 'mystery' of life that you never want to solve?",
+            "back": "The mysteries you wish to keep reveal where you find wonder and the value you place on the 'unsearchable' aspects of existence."
+        },
+        {
+            "id": "ssc_26",
+            "front": "How do you define 'evil'—is it a force, a choice, or an absence of light?",
+            "back": "Your definition of evil shapes your moral boundaries and how you process the darkness you encounter in the world."
+        },
+        {
+            "id": "ssc_27",
+            "front": "What is a 'holy' moment you've had in a completely secular place?",
+            "back": "Secular holiness shows that your spiritual capacity isn't bound by tradition, but by your own ability to see meaning anywhere."
+        },
+        {
+            "id": "ssc_28",
+            "front": "What would you do if you found out for certain that your life had a specific, pre-written purpose?",
+            "back": "Your reaction to 'predestination' reveals your value for free will versus the comfort of being part of a larger plan."
+        },
+        {
+            "id": "ssc_29",
+            "front": "What does it mean to you to 'walk in the light' in your current daily life?",
+            "back": "Living 'in the light' is a metaphor for integrity; it reveals the specific moral and spiritual standards you strive to uphold."
+        },
+        {
+            "id": "ssc_30",
+            "front": "If you could leave your body and view your life from a 'soul's eye view,' what would change first?",
+            "back": "The 'soul's view' provides the ultimate perspective, identifying the trivialities you over-value and the depths you overlook."
+        }
+    ]
+}

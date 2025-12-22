@@ -1,0 +1,30 @@
+[
+    {
+        "id": "cm_01",
+        "question": "Recall a time you got lost as a child—what did you do, and who or what helped you find your way back?",
+        "psychology": "This memory often mirrors how you handle feelings of disorientation or uncertainty in adult life, revealing your reliance on internal resilience versus external support systems.",
+        "category": "Childhood Memories",
+        "themeColor": "#00A5FF"
+    },
+    {
+        "id": "pv_01",
+        "question": "What is one thing you would never do, even if offered a million dollars?",
+        "psychology": "This hard limit defines your non-negotiables—the core values that are so central to your identity that no external reward can compromise them.",
+        "category": "Personal Values",
+        "themeColor": "#9B5CFF"
+    },
+    {
+        "id": "rc_01",
+        "question": "When was the last time you felt truly 'seen' by another person, without needing to explain yourself?",
+        "psychology": "The experience of being 'seen' is a fundamental human need; identifying these moments helps you recognize the quality of your most authentic connections.",
+        "category": "Relationships and Connections",
+        "themeColor": "#FFC857"
+    },
+    {
+        "id": "fv_01",
+        "question": "What is a secret you’re glad you kept, and why have you chosen to hold onto it?",
+        "psychology": "Secrets can be protective or burdensome; understanding your motive for silence reveals your defense mechanisms and what you consider 'unsafe' to share.",
+        "category": "Fears and Vulnerability",
+        "themeColor": "#FF3B5C"
+    }
+]

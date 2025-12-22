@@ -1,0 +1,158 @@
+{
+    "id": "emotional_responses",
+    "name": "Emotional Responses",
+    "themeColor": "#FF00FF",
+    "description": "Unpack the automatic reactions, triggers, and feeling states that color your perception of reality.",
+    "questions": [
+        {
+            "id": "er_01",
+            "front": "What physical sensation in your body usually signals an emotion before you can name it?",
+            "back": "Somatic awareness reveals how your nervous system processes life, often holding truths your mind attempts to rationalize away."
+        },
+        {
+            "id": "er_02",
+            "front": "Which emotion do you find it 'easiest' to express in front of others?",
+            "back": "The 'easy' emotion often serves as a secondary reaction, used to mask more vulnerable feelings that feel unsafe to show."
+        },
+        {
+            "id": "er_03",
+            "front": "Recall a time you felt 'inappropriate' laughter—what was actually happening inside?",
+            "back": "Nervous laughter or humor in gravity acts as a defense mechanism to discharge tension when an emotion feels too heavy to carry."
+        },
+        {
+            "id": "er_04",
+            "front": "What is one sound that instantly shifts your mood, for better or worse?",
+            "back": "Audio triggers link directly to subconscious anchors, revealing deep associations with safety, alarm, or joy."
+        },
+        {
+            "id": "er_05",
+            "front": "When someone is angry with you, what is your knee-jerk internal response?",
+            "back": "Automatic reactions to others' anger expose your early conditioning regarding conflict and whether you prioritize safety or defense."
+        },
+        {
+            "id": "er_06",
+            "front": "How do you distinguish between 'feeling sad' and 'feeling empty' in your own experience?",
+            "back": "The nuance between sadness and emptiness points to the difference between grief for something lost and disconnectedness from self."
+        },
+        {
+            "id": "er_07",
+            "front": "What emotion do you feel most 'guilty' for experiencing?",
+            "back": "Emotions tied to guilt reveal internalized rules about what is 'allowed,' pointing to parts of yourself you have been taught to suppress."
+        },
+        {
+            "id": "er_08",
+            "front": "Describe the feeling of a 'small win'—where do you feel it most in your body?",
+            "back": "The location of joy and pride shows where your self-worth is physically felt and how you reward yourself internally."
+        },
+        {
+            "id": "er_09",
+            "front": "What is a trigger for you that others might find confusing or trivial?",
+            "back": "Specific triggers are often 'echoes' of past wounds, highlighting a sensitivity that hasn't yet found its full story or healing."
+        },
+        {
+            "id": "er_10",
+            "front": "How do you 'digest' a heavy emotion after a stressful day?",
+            "back": "Emotional digestion reveals your capacity for self-regulation and whether you use avoidance or integration to find peace."
+        },
+        {
+            "id": "er_11",
+            "front": "Recall a time you felt sudden, overwhelming gratitude—what were you looking at?",
+            "back": "Gratitude peaks often occur when we feel a sudden sense of belonging or safety that contrasts or heals a recent fear."
+        },
+        {
+            "id": "er_12",
+            "front": "When you feel envy, what specifically about the other person's life is your mind stuck on?",
+            "back": "Envy is a compass pointing to your unexpressed desires; what you fixate on is what you feel is missing in your own identity."
+        },
+        {
+            "id": "er_13",
+            "front": "What is your default 'waiting' emotion—how do you feel when life is on hold?",
+            "back": "Emotion in stillness reveals your baseline anxiety or peace and how much you rely on external action to define your state."
+        },
+        {
+            "id": "er_14",
+            "front": "Describe a moment you felt 'awe' recently—what about it felt larger than you?",
+            "back": "Awe is the dissolution of the ego; it reveals what you hold as sacred and your capacity to see beauty beyond your own concerns."
+        },
+        {
+            "id": "er_15",
+            "front": "When you are disappointed, do you tend to turn that feeling inward (shame) or outward (blame)?",
+            "back": "The direction of disappointment reveals your primary defense structure and how you handle the pain of unmet expectations."
+        },
+        {
+            "id": "er_16",
+            "front": "What is the 'texture' of your anxiety—is it sharp, heavy, buzzing, or something else?",
+            "back": "The metaphorical texture of anxiety explains how your body prepares for threat—bracing, withdrawing, or scattering."
+        },
+        {
+            "id": "er_17",
+            "front": "Recall an emotion you've felt that had no clear cause—how did you explain it to yourself?",
+            "back": "Need for explanation during 'raw' feeling shows how much you trust your intuition versus needing a logical narrative to feel valid."
+        },
+        {
+            "id": "er_18",
+            "front": "Which emotion makes you feel the most 'powerful' when you lean into it?",
+            "back": "Power-linked emotions reveal what you use to overcome fear, whether it's through righteousness, competence, or connection."
+        },
+        {
+            "id": "er_19",
+            "front": "How does your breathing change when you are keeping a secret?",
+            "back": "Physiological shifts during concealment reveal the 'cost' of hiddenness and the stress your body carries to maintain boundaries."
+        },
+        {
+            "id": "er_20",
+            "front": "When you're happy, is there a small part of you that immediately waits for the 'other shoe to drop'?",
+            "back": "Anticipatory dread in joy is a protective mechanism against future pain, revealing a lack of trust in life's stability."
+        },
+        {
+            "id": "er_21",
+            "front": "What emotion do you feel when you are completely alone for a long period?",
+            "back": "Solitary emotion is your most authentic self-state, free from the Performance of social mirrors."
+        },
+        {
+            "id": "er_22",
+            "front": "What is an emotion you admire in others but find 'cringe' or weak in yourself?",
+            "back": "Disowned emotions are often those we associate with vulnerability we were shamed for in the past."
+        },
+        {
+            "id": "er_23",
+            "front": "Describe the feeling of 'home' in one emotion, not a place.",
+            "back": "The emotional definition of home is your primary safety signal, representing the state you are always trying to return to."
+        },
+        {
+            "id": "er_24",
+            "front": "When you feel misunderstood, what is the 'first thought' that follows the frustration?",
+            "back": "The persistent thought after being misunderstood reveals your deepest fear about how you are perceived by others."
+        },
+        {
+            "id": "er_25",
+            "front": "How do you experience 'courage'—is it a loud feeling or a quiet one?",
+            "back": "Your definition of courage shows whether you value external heroism or internal persistence more."
+        },
+        {
+            "id": "er_26",
+            "front": "What emotion do you feel when you see someone else being treated unfairly?",
+            "back": "Empathy in injustice reveals your core moral compass and the strength of your identification with others' suffering."
+        },
+        {
+            "id": "er_27",
+            "front": "Recall a time you were 'wrong' about how you thought you would feel—what surprised you?",
+            "back": "Miscalculations of feeling show the gap between who your mind thinks you are and who you emotional self actually is."
+        },
+        {
+            "id": "er_28",
+            "front": "What is the feeling of 'boredom' to you—is it rest, or is it a threat?",
+            "back": "How you perceive boredom reveals whether you use activity to escape from yourself or as a genuine expression of life."
+        },
+        {
+            "id": "er_29",
+            "front": "If your emotions were a weather system today, what would the forecast be?",
+            "back": "Weather metaphors allow for a non-judgmental observation of the fluid and changing nature of your internal state."
+        },
+        {
+            "id": "er_30",
+            "front": "Which emotion would you say is the 'master' of your current life chapter?",
+            "back": "Identifying the dominant emotion helps you see the overarching theme or conflict you are currently navigating."
+        }
+    ]
+}

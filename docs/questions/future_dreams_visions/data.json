@@ -1,0 +1,158 @@
+{
+    "id": "future_dreams_visions",
+    "name": "Future Dreams and Visions",
+    "themeColor": "#00FF00",
+    "description": "Project your consciousness forward to explore aspirations, hidden potentials, and your evolving sense of legacy.",
+    "questions": [
+        {
+            "id": "fdv_01",
+            "front": "If you could see yourself five years from now, what is the first thing you hope has stayed the same?",
+            "back": "What you hope remains reveals the core parts of your identity you value most and fear losing to time or change."
+        },
+        {
+            "id": "fdv_02",
+            "front": "What is one dream you've kept quiet because it feels 'too big' or 'too silly' to say out loud?",
+            "back": "Silenced dreams often hold your most authentic potential, hidden by fears of judgment or the weight of responsibility."
+        },
+        {
+            "id": "fdv_03",
+            "front": "Imagine your 'ideal day' ten years from today—who is the first person you see in that vision?",
+            "back": "The people in your future visions represent the types of connection and support you value most for long-term fulfillment."
+        },
+        {
+            "id": "fdv_04",
+            "front": "What is a 'impossible' goal you secretly think you could achieve if everything went perfectly?",
+            "back": "Secret 'impossible' goals reveal your latent ambition and the level of faith you have in your own untapped capabilities."
+        },
+        {
+            "id": "fdv_05",
+            "front": "What do you want people to say about your impact on the world when you are no longer here?",
+            "back": "Legacy thoughts distill your core values into a single theme, showing what you truly equate with a meaningful life."
+        },
+        {
+            "id": "fdv_06",
+            "front": "If there were a 'backup version' of your life where you took a different path, what would that version be doing now?",
+            "back": "Alternative life paths highlight the 'dormant' interests or parts of self that you may be suppressing in your current reality."
+        },
+        {
+            "id": "fdv_07",
+            "front": "What is one thing you hope to learn or master that has nothing to do with your career?",
+            "back": "Purely personal mastery goals reveal your intrinsic curiosity and what you value for the sake of joy rather than utility."
+        },
+        {
+            "id": "fdv_08",
+            "front": "How do you think your older self would look back on your current worries?",
+            "back": "Projecting into the future self provides detachment, helping you see which current concerns are transient versus foundational."
+        },
+        {
+            "id": "fdv_09",
+            "front": "What is a fear you have about the future that you know is likely irrational?",
+            "back": "Identifying irrational future fears allows you to see the underlying anxieties that project 'catastrophe' onto the unknown."
+        },
+        {
+            "id": "fdv_10",
+            "front": "If you could leave one piece of advice for a future generation, what would it be?",
+            "back": "Your 'one piece of advice' is the distilled essence of your life's hardest-won wisdom and most cherished truth."
+        },
+        {
+            "id": "fdv_11",
+            "front": "What does 'freedom' look like to you in your future—is it a place, a feeling, or a person?",
+            "back": "Your definition of future freedom reveals the specific types of 'chains' (financial, emotional, social) you feel bound by now."
+        },
+        {
+            "id": "fdv_12",
+            "front": "What legacy from your ancestors do you most want to change or end with you?",
+            "back": "The desire to break ancestral patterns shows your commitment to growth and the specific 'inherited burdens' you've identified."
+        },
+        {
+            "id": "fdv_13",
+            "front": "When you think of 'home' in the future, is it somewhere you've already been or somewhere new?",
+            "back": "Future home visions indicate whether you find safety in the familiar or in the potential for reinvention."
+        },
+        {
+            "id": "fdv_14",
+            "front": "What is one thing you are doing today that you believe your 'future self' will thank you for?",
+            "back": "Identifying current investments in the future self fosters self-compassion and reinforces long-term thinking."
+        },
+        {
+            "id": "fdv_15",
+            "front": "If you had infinite time and no need for sleep, what project would you start tomorrow?",
+            "back": "Removing limits reveals the deep creative or intellectual 'ithes' that your current structure doesn't allow room for."
+        },
+        {
+            "id": "fdv_16",
+            "front": "What is a 'dream' you've outgrown—why did you let it go?",
+            "back": "Outgrown dreams mark the evolution of your values and the shedding of 'shoulds' that no longer fit your authentic self."
+        },
+        {
+            "id": "fdv_17",
+            "front": "Who is a person you've never met whose life or vision moves you deeply?",
+            "back": "Admiration for strangers highlights the qualities and impact you most want to emulate or be associated with."
+        },
+        {
+            "id": "fdv_18",
+            "front": "What does 'success' mean to you when you are 80 years old?",
+            "back": "Late-life success metrics prioritize relational depth and internal peace over external accumulation or status."
+        },
+        {
+            "id": "fdv_19",
+            "front": "What is one risk about the future that you are actually excited to take?",
+            "back": "Excitatory risk identifies where your desire for growth outweighs your need for certainty, pointing to your path of evolution."
+        },
+        {
+            "id": "fdv_20",
+            "front": "If you could inhabit any fictional world in the future, which one would it be and why?",
+            "back": "Chosen fictional worlds mirror the missing elements in your current reality—adventure, community, justice, or magic."
+        },
+        {
+            "id": "fdv_21",
+            "front": "How much of your current self do you think would be recognizable to your 10-year-old self?",
+            "back": "The recognizable self-core suggests the enduring traits of your spirit, while the new parts show where you've fought for growth."
+        },
+        {
+            "id": "fdv_22",
+            "front": "What is a 'vision' you have for your community or the world that keeps you hopeful?",
+            "back": "Broad visions connect your personal meaning to a larger whole, revealing your sense of social contribution and hope."
+        },
+        {
+            "id": "fdv_23",
+            "front": "What would it take for you to feel that you have 'arrived' at the person you want to be?",
+            "back": "The 'arrival' point is often a moving target; defining it reveals the specific benchmarks you use for self-validation."
+        },
+        {
+            "id": "fdv_24",
+            "front": "If you could 'gift' one trait from yourself to your future children or students, what would it be?",
+            "back": "The gift-trait is what you consider your most valuable and resilient asset—the part of you that is worth continuing."
+        },
+        {
+            "id": "fdv_25",
+            "front": "What is one 'future memory' you are trying to create right now?",
+            "back": "Intentional memory creation shows where you are trying to anchor your present experiences into a meaningful future narrative."
+        },
+        {
+            "id": "fdv_26",
+            "front": "When you picture your 'best self,' what is their most notable habit?",
+            "back": "The habits of the best-self are the blueprint for your own path to self-actualization and personal integrity."
+        },
+        {
+            "id": "fdv_27",
+            "front": "What is a 'wait' you are currently in—what do you think is on the other side?",
+            "back": "How you handle 'waiting' reveals your relationship with patience and the stories you tell yourself about earned rewards."
+        },
+        {
+            "id": "fdv_28",
+            "front": "If you could change the future trajectory of one relationship right now, what would you do?",
+            "back": "Relationship trajectory changes highlight where you feel a need for more depth, boundaries, or closure."
+        },
+        {
+            "id": "fdv_29",
+            "front": "What is the 'last chapter' of your life story called in your mind?",
+            "back": "The final chapter's title reveals your ultimate hope for resolution, peace, or triumph at the end of the journey."
+        },
+        {
+            "id": "fdv_30",
+            "front": "If your life were a seed, what kind of tree do you hope it eventually becomes?",
+            "back": "Botanical metaphors for life describe your desire for impact—shelter, fruit, shade, or simply enduring presence."
+        }
+    ]
+}

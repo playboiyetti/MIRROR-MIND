@@ -1,0 +1,158 @@
+{
+    "id": "dreams_subconscious",
+    "name": "Dreams and Subconscious",
+    "themeColor": "#3A47FF",
+    "description": "Discover revelations about hidden desires, unresolved conflicts, and how the subconscious shapes your choices.",
+    "questions": [
+        {
+            "id": "ds_01",
+            "front": "What is a recurring place you visit in your dreams?",
+            "back": "Familiar dream landscapes often represent emotional states or unresolved chapters your subconscious returns to for processing."
+        },
+        {
+            "id": "ds_02",
+            "front": "Describe a dream character that feels strangely familiar, even if you don’t know them in waking life.",
+            "back": "Unknown yet familiar figures frequently embody disowned aspects of yourself seeking integration."
+        },
+        {
+            "id": "ds_03",
+            "front": "What ordinary object appears most often in your dreams, and in what context?",
+            "back": "Everyday objects in dreams carry symbolic weight, revealing what your subconscious associates with security, threat, or desire."
+        },
+        {
+            "id": "ds_04",
+            "front": "Recall a dream where you could fly—what did the sensation feel like?",
+            "back": "Flight dreams reflect yearnings for freedom or perspective, exposing areas where you feel grounded or controlled in life."
+        },
+        {
+            "id": "ds_05",
+            "front": "What dream ending leaves you waking up with the strongest emotion?",
+            "back": "Powerful dream resolutions mirror unfinished emotional business your subconscious is attempting to resolve."
+        },
+        {
+            "id": "ds_06",
+            "front": "Think of a dream in which you were searching for something—what was it?",
+            "back": "Lost-and-found dreams symbolize the subconscious quest for missing pieces of identity, purpose, or connection."
+        },
+        {
+            "id": "ds_07",
+            "front": "What color stands out most in your remembered dreams?",
+            "back": "Dominant dream colors reveal the emotional tone your subconscious uses to communicate underlying mood."
+        },
+        {
+            "id": "ds_08",
+            "front": "Describe a dream where time felt completely different—how did it flow?",
+            "back": "Altered time in dreams highlights subconscious anxieties or wishes regarding pace, aging, or missed opportunities."
+        },
+        {
+            "id": "ds_09",
+            "front": "Recall a dream conversation that felt profoundly meaningful—what was said?",
+            "back": "Dream dialogues often voice inner wisdom or suppressed truths you aren’t ready to acknowledge consciously."
+        },
+        {
+            "id": "ds_10",
+            "front": "What animal appears most frequently in your dreams, and how do you interact with it?",
+            "back": "Dream animals symbolize instinctual energies; your interaction reveals acceptance or fear of those primal parts."
+        },
+        {
+            "id": "ds_11",
+            "front": "Think of a dream where you were late or unprepared—what were you rushing toward?",
+            "back": "Anxiety dreams of unpreparedness expose subconscious fears of inadequacy or missing life’s demands."
+        },
+        {
+            "id": "ds_12",
+            "front": "What dream scene do you wish you could return to in waking life?",
+            "back": "Desired dream returns point to unfulfilled longings or idealized states your subconscious offers as compensation."
+        },
+        {
+            "id": "ds_13",
+            "front": "Recall a dream in which you discovered a hidden room—what was inside?",
+            "back": "Secret rooms represent unexplored or repressed parts of the psyche waiting to be acknowledged."
+        },
+        {
+            "id": "ds_14",
+            "front": "What weather most often appears in your dreams, and how does it affect you?",
+            "back": "Dream weather mirrors subconscious emotional climates—storms for turmoil, sun for clarity."
+        },
+        {
+            "id": "ds_15",
+            "front": "Describe a dream where you behaved completely out of character—what did you do?",
+            "back": "Out-of-character actions reveal suppressed impulses or alternate selves your subconscious explores safely."
+        },
+        {
+            "id": "ds_16",
+            "front": "What sound from a dream has stayed with you long after waking?",
+            "back": "Lingering dream sounds act as subconscious signals, carrying emotional resonance or warnings."
+        },
+        {
+            "id": "ds_17",
+            "front": "Recall a dream in which someone from your past appeared younger or older—how did they seem?",
+            "back": "Age-altered figures reflect how your subconscious processes unresolved feelings toward that person or era."
+        },
+        {
+            "id": "ds_18",
+            "front": "What dream ability do you most often possess, like breathing underwater or invisibility?",
+            "back": "Supernatural dream powers compensate for perceived waking limitations or express hidden strengths."
+        },
+        {
+            "id": "ds_19",
+            "front": "Think of a dream that felt like a warning—what subtle signs appeared?",
+            "back": "Premonitory-feeling dreams highlight intuitive concerns your conscious mind overlooks."
+        },
+        {
+            "id": "ds_20",
+            "front": "What texture or sensation from a dream do you remember most vividly?",
+            "back": "Tactile dream memories reveal how your subconscious communicates comfort, threat, or longing through the body."
+        },
+        {
+            "id": "ds_21",
+            "front": "Recall a dream where you were watching yourself from outside—what were you doing?",
+            "back": "Out-of-body perspectives indicate subconscious attempts at self-observation or dissociation."
+        },
+        {
+            "id": "ds_22",
+            "front": "What dream location feels completely impossible in real life—why?",
+            "back": "Impossible settings symbolize desires or fears that feel unattainable or forbidden in waking reality."
+        },
+        {
+            "id": "ds_23",
+            "front": "Describe a dream gift you received—who gave it, and what was it?",
+            "back": "Dream gifts represent what your subconscious believes you need or deserve from yourself or others."
+        },
+        {
+            "id": "ds_24",
+            "front": "What repeated action do you perform in dreams, like falling or running?",
+            "back": "Repetitive dream motions mirror subconscious loops—falling for loss of control, running for avoidance."
+        },
+        {
+            "id": "ds_25",
+            "front": "Recall a dream that changed your mood for the entire next day—why do you think it lingered?",
+            "back": "Mood-altering dreams touch unresolved emotional material your subconscious insists on processing."
+        },
+        {
+            "id": "ds_26",
+            "front": "What doorway or threshold appears most in your dreams—do you cross it?",
+            "back": "Thresholds symbolize transitions; crossing or hesitating reveals subconscious readiness for change."
+        },
+        {
+            "id": "ds_27",
+            "front": "Think of a dream where everything was in slow motion—what were you trying to do?",
+            "back": "Slow-motion dreams express subconscious frustration with obstacles or desire to savor fleeting moments."
+        },
+        {
+            "id": "ds_28",
+            "front": "What forgotten detail from a childhood dream suddenly came back to you as an adult?",
+            "back": "Resurfaced childhood dream fragments signal long-buried emotions or insights ready for conscious integration."
+        },
+        {
+            "id": "ds_29",
+            "front": "Recall a dream that felt like it belonged to someone else—what made it foreign?",
+            "back": "Alien-feeling dreams may channel archetypal or collective themes your subconscious uses for broader perspective."
+        },
+        {
+            "id": "ds_30",
+            "front": "If you could ask your dreaming self one question tonight, what would it be?",
+            "back": "The chosen question reveals what your conscious mind most wants to understand from its hidden counterpart."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# Web (Vite/React)
+web/dist/
+web/node_modules/
+
+# Server
+server/node_modules/
+
+# Unity
+client/[Ll]ibrary/
+client/[Tt]emp/
+client/[Oo]bj/
+client/[Bb]uild/
+client/[Bb]uilds/
+client/[Ll]ogs/
+client/[Uu]serSettings/
+client/*.csproj
+client/*.sln
+client/*.unitypackage
+
+# OS
+.DS_Store
+Thumbs.db

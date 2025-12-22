@@ -1,0 +1,158 @@
+{
+    "id": "career_ambitions",
+    "name": "Career and Ambitions",
+    "themeColor": "#FF8C00",
+    "description": "Uncover deeper insights into self-worth, drive, fear of failure, and your perception of purpose and success.",
+    "questions": [
+        {
+            "id": "ca_01",
+            "front": "What job did you dream of having as a child?",
+            "back": "Childhood career dreams often reveal early expressions of identity, power, or unmet emotional needs that still influence adult ambitions."
+        },
+        {
+            "id": "ca_02",
+            "front": "Describe a work task you could do for hours without noticing time passing—what is it?",
+            "back": "Flow activities highlight innate strengths and passions, exposing what aligns most with your authentic sense of purpose."
+        },
+        {
+            "id": "ca_03",
+            "front": "What is one accomplishment you downplay when talking about your career?",
+            "back": "Minimized achievements often tie to impostor feelings or fear that full ownership threatens deeper insecurities."
+        },
+        {
+            "id": "ca_04",
+            "front": "If you could switch careers tomorrow without any risk, what would you choose?",
+            "back": "Risk-free fantasies reveal suppressed desires and the gap between current reality and true vocational calling."
+        },
+        {
+            "id": "ca_05",
+            "front": "Who has been the most influential mentor or boss in your work life, and why?",
+            "back": "Admired figures reflect the leadership qualities you crave or lack, mirroring internal ideals or unresolved authority dynamics."
+        },
+        {
+            "id": "ca_06",
+            "front": "What small daily work habit are you most proud of maintaining?",
+            "back": "Cherished micro-habits expose the personal values—discipline, integrity, creativity—you use to anchor self-respect."
+        },
+        {
+            "id": "ca_07",
+            "front": "Recall a professional failure that still stings—what part hurts most?",
+            "back": "Lingering pain points to the aspect of self-worth most tied to career—competence, recognition, or security."
+        },
+        {
+            "id": "ca_08",
+            "front": "What type of praise from colleagues means the most to you?",
+            "back": "Valued recognition reveals whether your drive stems from needs for intellect, effort, creativity, or relational impact."
+        },
+        {
+            "id": "ca_09",
+            "front": "When do you feel most respected in your work environment?",
+            "back": "Moments of felt respect uncover the core conditions under which you feel truly seen and valued professionally."
+        },
+        {
+            "id": "ca_10",
+            "front": "What work-related skill do you secretly wish people noticed more?",
+            "back": "Unacknowledged skills highlight hidden contributions and the quiet hunger for validation in overlooked strengths."
+        },
+        {
+            "id": "ca_11",
+            "front": "How would your typical workday change if no one was watching?",
+            "back": "Differences expose extrinsic versus intrinsic motivation and the role performance plays in your work identity."
+        },
+        {
+            "id": "ca_12",
+            "front": "What is something you’ve sacrificed for career progress that you quietly regret?",
+            "back": "Regretted sacrifices reveal misaligned priorities and the true personal costs of ambition."
+        },
+        {
+            "id": "ca_13",
+            "front": "Think of a coworker you admire—what one trait stands out?",
+            "back": "Envied traits often mirror undeveloped or suppressed aspects of your own professional self."
+        },
+        {
+            "id": "ca_14",
+            "front": "What question do you dread being asked in job interviews or reviews?",
+            "back": "Dreaded questions touch vulnerable spots tied to perceived weaknesses or past wounds."
+        },
+        {
+            "id": "ca_15",
+            "front": "At what point in a project do you feel the most alive?",
+            "back": "Peak engagement phases reveal whether your energy derives from ideation, execution, collaboration, or completion."
+        },
+        {
+            "id": "ca_16",
+            "front": "What legacy do you hope to leave in your field or workplace?",
+            "back": "Desired professional legacy distills the deeper impact—innovation, mentorship, stability—you seek through work."
+        },
+        {
+            "id": "ca_17",
+            "front": "Recall a time you turned down an opportunity—why did you say no?",
+            "back": "Refusals uncover hidden values or fears that quietly override apparent ambition."
+        },
+        {
+            "id": "ca_18",
+            "front": "What do you consider “enough” success in your career?",
+            "back": "Personal sufficiency thresholds expose whether success is measured externally or by internal fulfillment."
+        },
+        {
+            "id": "ca_19",
+            "front": "When was the last time you felt envious of someone’s career—what triggered it?",
+            "back": "Career envy pinpoints the precise markers of achievement you unconsciously equate with worth."
+        },
+        {
+            "id": "ca_20",
+            "front": "How do you unwind after a particularly stressful workday?",
+            "back": "Recovery rituals reveal the emotional toll of work and how you restore depleted inner resources."
+        },
+        {
+            "id": "ca_21",
+            "front": "What advice would you give your younger self starting their career?",
+            "back": "Retrospective wisdom highlights regrets, illusions, or protective warnings shaped by experience."
+        },
+        {
+            "id": "ca_22",
+            "front": "What part of your current or past job felt most meaningless to you?",
+            "back": "Meaningless tasks expose the disconnect between daily efforts and deeper personal values."
+        },
+        {
+            "id": "ca_23",
+            "front": "If money were irrelevant, what work would you still want to do?",
+            "back": "Purely intrinsic choices strip away survival drivers, revealing the soul’s true vocational pull."
+        },
+        {
+            "id": "ca_24",
+            "front": "What professional risk are you glad you took?",
+            "back": "Celebrated risks show moments when courage aligned with growth, contrasting with avoided ones."
+        },
+        {
+            "id": "ca_25",
+            "front": "How has your definition of ambition changed over the years?",
+            "back": "Evolving ambition reflects shifting self-understanding—external climb, balance, impact, or inner peace."
+        },
+        {
+            "id": "ca_26",
+            "front": "What do you fear people mistakenly think about your work ethic or talent?",
+            "back": "Feared misjudgments reveal fragile aspects of professional identity you fiercely protect."
+        },
+        {
+            "id": "ca_27",
+            "front": "Recall a moment you felt deeply fulfilled at work—what were you doing?",
+            "back": "Fulfillment peaks illuminate the rare alignment of skill, value, and contribution."
+        },
+        {
+            "id": "ca_28",
+            "front": "What boundary do you maintain around work that others might not understand?",
+            "back": "Protected boundaries signal lessons learned about burnout, identity fusion, or self-preservation."
+        },
+        {
+            "id": "ca_29",
+            "front": "In an ideal world, how much of your identity would be tied to your career?",
+            "back": "Desired identity balance exposes current over- or under-identification with work."
+        },
+        {
+            "id": "ca_30",
+            "front": "If your career were a story, what chapter are you in right now, and what do you hope comes next?",
+            "back": "Narrative framing reveals your sense of agency, progress, stagnation, or hope in the arc of ambition."
+        }
+    ]
+}

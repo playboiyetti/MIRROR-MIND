@@ -1,0 +1,158 @@
+{
+    "id": "childhood_memories",
+    "name": "Childhood Memories",
+    "themeColor": "#00A5FF",
+    "description": "Explore the foundations of your personality through early experiences and subconscious influences from early life.",
+    "questions": [
+        {
+            "id": "cm_01",
+            "front": "Recall a time you got lost as a child—what did you do, and who or what helped you find your way back?",
+            "back": "This memory often mirrors how you handle feelings of disorientation or uncertainty in adult life, revealing your reliance on internal resilience versus external support systems."
+        },
+        {
+            "id": "cm_02",
+            "front": "What was your favorite hiding spot as a kid, and why did you choose it?",
+            "back": "Hiding spots symbolize personal sanctuaries; your choice reflects deeper needs for solitude, safety, or escape, influencing how you create boundaries in relationships today."
+        },
+        {
+            "id": "cm_03",
+            "front": "Describe a childhood toy or object you couldn't part with— what made it so special?",
+            "back": "Attachments to objects reveal emotional security needs; this highlights patterns in how you form bonds with people or possessions, often tied to unresolved childhood comforts."
+        },
+        {
+            "id": "cm_04",
+            "front": "Think of a family tradition from your childhood—how did it evolve over time for you?",
+            "back": "Traditions expose inherited values and conflicts; your perception shows how you internalize or rebel against familial norms, affecting your sense of belonging in daily life."
+        },
+        {
+            "id": "cm_05",
+            "front": "What was a small rebellion you did as a child, like sneaking candy—what thrilled you about it?",
+            "back": "Minor rebellions indicate early autonomy testing; this uncovers your relationship with rules and authority, shaping risk-taking behaviors in adulthood."
+        },
+        {
+            "id": "cm_06",
+            "front": "Recall a childhood dream or nightmare that stuck with you—what elements stand out most?",
+            "back": "Recurring dreams reflect subconscious fears or desires; analyzing them reveals hidden anxieties that influence your perception of safety and ambition in everyday scenarios."
+        },
+        {
+            "id": "cm_07",
+            "front": "Who was your childhood hero, real or fictional, and what one trait did you admire most?",
+            "back": "Heroes embody idealized self-aspects; your choice exposes aspirational qualities you seek in yourself, often highlighting insecurities in personal identity."
+        },
+        {
+            "id": "cm_08",
+            "front": "Describe a childhood meal or food that brings back strong memories—why does it linger?",
+            "back": "Food memories tie to nurturing and comfort; this probes emotional associations with care, revealing how you seek fulfillment or cope with stress through routines."
+        },
+        {
+            "id": "cm_09",
+            "front": "What was a game you invented or modified as a child— what rules did you add?",
+            "back": "Self-made games show creativity and control needs; this reflects how you adapt structures in life, indicating flexibility or rigidity in problem-solving."
+        },
+        {
+            "id": "cm_10",
+            "front": "Recall a time you felt unfairly punished as a kid—how did you respond inwardly?",
+            "back": "Perceptions of injustice reveal justice sensitivity; this uncovers lingering resentments that affect trust and fairness views in adult interactions."
+        },
+        {
+            "id": "cm_11",
+            "front": "What outdoor adventure from childhood excited you most, like climbing a tree—what drew you to it?",
+            "back": "Adventures symbolize exploration urges; your recall highlights risk appetites and curiosity, influencing how you approach novelty in daily life."
+        },
+        {
+            "id": "cm_12",
+            "front": "Think of a childhood friend you lost touch with—what do you miss about them?",
+            "back": "Lost friendships expose attachment styles; this reveals patterns in maintaining connections, often linked to fears of abandonment."
+        },
+        {
+            "id": "cm_13",
+            "front": "Describe a childhood book or story that captivated you— what part resonated?",
+            "back": "Stories reflect inner narratives; your favorite elements mirror personal myths or values that shape self-perception and decision-making."
+        },
+        {
+            "id": "cm_14",
+            "front": "What was a secret you kept as a child—why did you hide it?",
+            "back": "Secrets indicate vulnerability thresholds; this probes trust issues and self-protection mechanisms in relationships."
+        },
+        {
+            "id": "cm_15",
+            "front": "Recall a family trip or outing from childhood—what unexpected thing happened?",
+            "back": "Unexpected events test adaptability; this shows how early surprises influence your handling of unpredictability in adulthood."
+        },
+        {
+            "id": "cm_16",
+            "front": "What animal or pet from your childhood felt like a companion—how did you care for it?",
+            "back": "Pet bonds reveal empathy and responsibility; this uncovers nurturing tendencies that extend to human relationships."
+        },
+        {
+            "id": "cm_17",
+            "front": "Describe a childhood holiday or celebration— what emotion dominated it for you?",
+            "back": "Holidays amplify family dynamics; your dominant emotion highlights unresolved joys or tensions in social gatherings."
+        },
+        {
+            "id": "cm_18",
+            "front": "Think of a skill you learned as a kid, like riding a bike—who taught you, and how?",
+            "back": "Learning experiences reflect mentorship influences; this exposes learning styles and dependency on guidance in personal growth."
+        },
+        {
+            "id": "cm_19",
+            "front": "What was a make-believe world you created as a child— what role did you play?",
+            "back": "Fantasy worlds escape reality; your role reveals idealized self-images and coping strategies for dissatisfaction."
+        },
+        {
+            "id": "cm_20",
+            "front": "Recall a time you helped someone as a child—what motivated you?",
+            "back": "Early altruism shows compassion roots; this indicates intrinsic versus extrinsic motivations in helping behaviors today."
+        },
+        {
+            "id": "cm_21",
+            "front": "Describe a childhood sound or smell that transports you back— why that one?",
+            "back": "Sensory triggers link to emotional anchors; this uncovers how senses evoke buried feelings, affecting mood regulation."
+        },
+        {
+            "id": "cm_22",
+            "front": "What was a disappointment from childhood, like a broken promise—how did you cope?",
+            "back": "Disappointments build resilience; your coping method reveals defense mechanisms against betrayal or failure."
+        },
+        {
+            "id": "cm_23",
+            "front": "Think of a childhood collection, like stamps or rocks— what fascinated you about it?",
+            "back": "Collections symbolize control and value; this reflects hoarding tendencies or pursuits of completeness in life goals."
+        },
+        {
+            "id": "cm_24",
+            "front": "Recall a teacher or adult who influenced you as a kid— what lesson stuck?",
+            "back": "Influential figures shape authority views; this highlights internalized wisdom or criticisms affecting self-esteem."
+        },
+        {
+            "id": "cm_25",
+            "front": "What was a forbidden thing you did as a child— what thrill or guilt followed?",
+            "back": "Forbidden acts test boundaries; this exposes moral conflicts and how guilt shapes ethical decisions."
+        },
+        {
+            "id": "cm_26",
+            "front": "Describe a childhood rainy day activity— how did it pass the time?",
+            "back": "Indoor activities during constraints reveal introspection levels; this shows boredom tolerance and creativity in solitude."
+        },
+        {
+            "id": "cm_27",
+            "front": "Think of a family story or legend from your childhood— do you believe it now?",
+            "back": "Family lore influences heritage perception; your belief shift uncovers evolving skepticism or loyalty to roots."
+        },
+        {
+            "id": "cm_28",
+            "front": "What was a gift you received as a kid that meant the world— why?",
+            "back": "Gifts symbolize validation; this probes love languages and how recognition affects self-worth."
+        },
+        {
+            "id": "cm_29",
+            "front": "Recall a time you pretended to be someone else as a child— who and why?",
+            "back": "Role-playing explores identity; this reveals dissatisfaction with self or aspirations for alternate realities."
+        },
+        {
+            "id": "cm_30",
+            "front": "Describe a childhood moment of wonder, like seeing stars— what made it magical?",
+            "back": "Wonder moments foster awe; this highlights openness to experiences, influencing optimism or cynicism in perceiving the world."
+        }
+    ]
+}

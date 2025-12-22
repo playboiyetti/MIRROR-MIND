@@ -1,0 +1,158 @@
+{
+    "id": "relationships_connections",
+    "name": "Relationships and Connections",
+    "themeColor": "#FFC857",
+    "description": "Explore attachment patterns, emotional needs, fears, boundaries, and how you perceive intimacy and trust.",
+    "questions": [
+        {
+            "id": "rc_01",
+            "front": "What is the kindest thing someone has ever done for you without expecting anything back?",
+            "back": "Recalled acts of selfless kindness highlight what you deeply crave in relationships and may rarely feel you receive."
+        },
+        {
+            "id": "rc_02",
+            "front": "Describe the last time you felt truly understood by another person—what were they responding to?",
+            "back": "Moments of being understood expose the vulnerabilities you most want seen and validated by others."
+        },
+        {
+            "id": "rc_03",
+            "front": "Who is the one person you can call at 3 a.m. in a crisis, and why them specifically?",
+            "back": "Your emergency contact reveals your deepest trust anchor and the qualities you rely on for emotional safety."
+        },
+        {
+            "id": "rc_04",
+            "front": "What small habit in a close relationship irritates you the most, even if you never mention it?",
+            "back": "Unspoken irritations often mirror your own suppressed needs or fears of conflict in intimacy."
+        },
+        {
+            "id": "rc_05",
+            "front": "Think of someone you’ve grown apart from—what do you miss most about the old connection?",
+            "back": "What is missed in drifted relationships points to the specific emotional nutrients that bond once provided."
+        },
+        {
+            "id": "rc_06",
+            "front": "How do you usually react when someone close to you succeeds at something big?",
+            "back": "Reactions to others’ success reveal underlying envy, comparison, or genuine security in your relational bonds."
+        },
+        {
+            "id": "rc_07",
+            "front": "What topic do you avoid discussing with people you care about, and why?",
+            "back": "Avoided topics uncover protective fears—rejection, judgment, or loss—that shape your emotional openness."
+        },
+        {
+            "id": "rc_08",
+            "front": "Recall a time you apologized sincerely—what made you decide it was necessary?",
+            "back": "Triggers for genuine apologies expose your core values around accountability and preserving connection."
+        },
+        {
+            "id": "rc_09",
+            "front": "What quality draws you instantly to a new person as a potential friend?",
+            "back": "Instant attractions reflect unconscious needs your existing relationships may not fully meet."
+        },
+        {
+            "id": "rc_10",
+            "front": "When was the last time you felt lonely while surrounded by people—what was missing?",
+            "back": "Loneliness in company highlights the specific type of connection you feel deprived of despite proximity."
+        },
+        {
+            "id": "rc_11",
+            "front": "How do you show someone you love them without using words?",
+            "back": "Non-verbal expressions of love reveal your primary love language and how you feel most safe giving affection."
+        },
+        {
+            "id": "rc_12",
+            "front": "What is something a past relationship taught you that you still carry today?",
+            "back": "Enduring lessons from past bonds shape defensive patterns or openness in current connections."
+        },
+        {
+            "id": "rc_13",
+            "front": "Who in your life challenges you the most to grow, and in what way?",
+            "back": "Growth-provoking people mirror the uncomfortable truths or potentials you need to confront."
+        },
+        {
+            "id": "rc_14",
+            "front": "Describe a moment you felt protective over someone—what triggered that instinct?",
+            "back": "Protective impulses reveal your role in relationships and underlying fears of loss or harm to loved ones."
+        },
+        {
+            "id": "rc_15",
+            "front": "What do you wish people would ask you about more often?",
+            "back": "Desired questions point to the parts of yourself you long to share but feel remain unseen."
+        },
+        {
+            "id": "rc_16",
+            "front": "Recall a betrayal that still lingers—how has it changed how you trust?",
+            "back": "Lingering betrayals expose the precise boundaries or vigilance you now maintain in closeness."
+        },
+        {
+            "id": "rc_17",
+            "front": "What shared activity strengthens your bond with someone the most?",
+            "back": "Bonding activities uncover the experiential pathways through which you feel most connected."
+        },
+        {
+            "id": "rc_18",
+            "front": "When do you feel most generous toward the people around you?",
+            "back": "Moments of generosity reveal when your emotional cup is full enough to give without resentment."
+        },
+        {
+            "id": "rc_19",
+            "front": "What compliment do you find hardest to accept from others?",
+            "back": "Rejected compliments often touch on qualities you struggle to integrate into your self-image."
+        },
+        {
+            "id": "rc_20",
+            "front": "Think of someone you admire from afar—why haven’t you gotten closer?",
+            "back": "Distance from admired people reflects self-imposed barriers rooted in worthiness or fear of rejection."
+        },
+        {
+            "id": "rc_21",
+            "front": "How do you know when a relationship has run its course?",
+            "back": "Personal endings criteria reveal your thresholds for emotional investment and self-preservation."
+        },
+        {
+            "id": "rc_22",
+            "front": "What childhood pattern do you notice repeating in your adult relationships?",
+            "back": "Repeated patterns highlight unresolved attachment dynamics carried forward from early bonds."
+        },
+        {
+            "id": "rc_23",
+            "front": "When someone cries in front of you, how do you naturally respond?",
+            "back": "Responses to vulnerability expose your comfort with emotion and capacity for empathetic presence."
+        },
+        {
+            "id": "rc_24",
+            "front": "What is a boundary you’ve had to enforce that surprised even you?",
+            "back": "Unexpected boundaries signal evolving self-respect and shifting tolerance for imbalance."
+        },
+        {
+            "id": "rc_25",
+            "front": "Recall a time you felt deeply grateful for someone’s presence—what were they doing?",
+            "back": "Gratitude triggers reveal the subtle ways others meet needs you may not consciously acknowledge."
+        },
+        {
+            "id": "rc_26",
+            "front": "What do you tend to assume about people before they prove otherwise?",
+            "back": "Default assumptions reflect protective beliefs shaped by past relational experiences."
+        },
+        {
+            "id": "rc_27",
+            "front": "How has your way of saying “I need you” changed over the years?",
+            "back": "Evolving expressions of need show growth in vulnerability or lingering fears of dependency."
+        },
+        {
+            "id": "rc_28",
+            "front": "What role do you often play in group settings with friends or family?",
+            "back": "Recurring roles mirror how you seek belonging and the relational function you feel compelled to fulfill."
+        },
+        {
+            "id": "rc_29",
+            "front": "Think of a silence shared with someone that felt completely comfortable— who was it with?",
+            "back": "Comfortable silences indicate profound trust and acceptance beyond words."
+        },
+        {
+            "id": "rc_30",
+            "front": "If you could send an anonymous message to someone who impacted your life, what would it say?",
+            "back": "Unsent messages reveal unresolved gratitude, regret, or closure needs that still shape your emotional landscape."
+        }
+    ]
+}

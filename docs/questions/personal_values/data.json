@@ -1,0 +1,158 @@
+{
+    "id": "personal_values",
+    "name": "Personal Values",
+    "themeColor": "#9B5CFF",
+    "description": "Discover the core principles that guide your decisions and define your moral compass.",
+    "questions": [
+        {
+            "id": "pv_01",
+            "front": "If you could instantly master one skill that would change your daily life, what would it be?",
+            "back": "The chosen skill exposes what you perceive as your greatest personal deficit, highlighting the values you place on competence, independence, or self-improvement."
+        },
+        {
+            "id": "pv_02",
+            "front": "What is one thing you would never do, even if no one would ever find out?",
+            "back": "Absolute moral lines reveal your internalized ethical code and the strength of your conscience versus external judgment."
+        },
+        {
+            "id": "pv_03",
+            "front": "Choose three words you hope people use when describing you behind your back—what are they?",
+            "back": "These words mirror the core traits you value most in yourself, often reflecting aspirations or defenses against deepest insecurities."
+        },
+        {
+            "id": "pv_04",
+            "front": "What everyday luxury would be the hardest for you to give up forever?",
+            "back": "Attachments to comforts uncover hidden dependencies and what you truly equate with quality of life or emotional security."
+        },
+        {
+            "id": "pv_05",
+            "front": "If you had to teach the world one lesson from your life, what would it be?",
+            "back": "Your chosen lesson distills the value you hold as most essential, shaped by pain, triumph, or regret."
+        },
+        {
+            "id": "pv_06",
+            "front": "What quality do you admire most in others that you feel you lack?",
+            "back": "Admired absences highlight self-perceived flaws and the values you unconsciously prioritize but struggle to embody."
+        },
+        {
+            "id": "pv_07",
+            "front": "When do you feel most proud of yourself in ordinary moments?",
+            "back": "Sources of quiet pride reveal your personal metric of worth—achievement, kindness, resilience, or authenticity."
+        },
+        {
+            "id": "pv_08",
+            "front": "What is something you’ve forgiven in someone else but not in yourself?",
+            "back": "Double standards in forgiveness expose harsher self-judgment and the values you demand more strictly from yourself."
+        },
+        {
+            "id": "pv_09",
+            "front": "If money were no object, how would you spend a typical Tuesday?",
+            "back": "Ideal daily life reflects core values around time, contribution, pleasure, or relationships when external pressures are removed."
+        },
+        {
+            "id": "pv_10",
+            "front": "What tradition or ritual do you maintain, even if others find it unnecessary?",
+            "back": "Personal rituals symbolize deeply held meanings—continuity, respect, control, or spiritual grounding."
+        },
+        {
+            "id": "pv_11",
+            "front": "What small act of kindness impacts you the most when someone does it for you?",
+            "back": "Valued kindnesses mirror the emotional needs or recognitions you crave, revealing your love language and sense of worth."
+        },
+        {
+            "id": "pv_12",
+            "front": "What is one belief you held strongly ten years ago that you no longer do?",
+            "back": "Evolving beliefs show flexibility of values and the influences—experience, pain, or growth—that reshaped your worldview."
+        },
+        {
+            "id": "pv_13",
+            "front": "In a group, what role do you naturally take on without being asked?",
+            "back": "Default roles reflect valued contributions—leadership, harmony, wisdom, or support—and your self-concept in social systems."
+        },
+        {
+            "id": "pv_14",
+            "front": "What purchase under $100 has brought you the most lasting happiness?",
+            "back": "Simple sources of joy uncover whether your values lean toward experiences, aesthetics, utility, or sentiment."
+        },
+        {
+            "id": "pv_15",
+            "front": "When faced with criticism, what type hurts you the most, even if it’s fair?",
+            "back": "Sensitive criticisms strike at core values tied to identity, exposing what you fear losing or failing to uphold."
+        },
+        {
+            "id": "pv_16",
+            "front": "What is something you do daily that you consider non-negotiable?",
+            "back": "Non-negotiable habits reveal foundational values—health, discipline, reflection, or connection—that anchor your sense of self."
+        },
+        {
+            "id": "pv_17",
+            "front": "Who in your life embodies a value you deeply respect, and what is that value?",
+            "back": "Admired figures serve as external mirrors; the highlighted value often reflects an ideal you strive toward."
+        },
+        {
+            "id": "pv_18",
+            "front": "What would make you walk away from a conversation forever?",
+            "back": "Deal-breakers in dialogue expose boundaries tied to respect, truth, empathy, or intellectual integrity."
+        },
+        {
+            "id": "pv_19",
+            "front": "If you could erase one emotion from human experience, which would it be?",
+            "back": "Rejected emotions reveal which feelings threaten your valued sense of control, peace, or moral order."
+        },
+        {
+            "id": "pv_20",
+            "front": "What do you consider “success” in a single ordinary day?",
+            "back": "Daily success metrics show whether your values prioritize productivity, presence, creativity, or relational harmony."
+        },
+        {
+            "id": "pv_21",
+            "front": "What advice do you give others but struggle to follow yourself?",
+            "back": "Hypocrisy in advice highlights aspirational values you recognize intellectually but resist emotionally."
+        },
+        {
+            "id": "pv_22",
+            "front": "What is one thing society praises that you secretly don’t value?",
+            "back": "Divergence from social norms uncovers independent or contrarian core values shaped by personal experience."
+        },
+        {
+            "id": "pv_23",
+            "front": "When do you feel most authentic in your daily life?",
+            "back": "Moments of authenticity reveal when your behavior aligns with deepest values, free from performance or fear."
+        },
+        {
+            "id": "pv_24",
+            "front": "What legacy do you hope to leave in the lives of people close to you?",
+            "back": "Desired legacy distills the ultimate values—love, wisdom, inspiration, or security—you wish to embody."
+        },
+        {
+            "id": "pv_25",
+            "front": "What is something you refuse to compromise on in relationships?",
+            "back": "Non-negotiables in connection expose foundational needs tied to trust, respect, freedom, or loyalty."
+        },
+        {
+            "id": "pv_26",
+            "front": "What book, quote, or idea has quietly guided many of your choices?",
+            "back": "Guiding philosophies reveal the intellectual or spiritual values that subconsciously steer decisions."
+        },
+        {
+            "id": "pv_27",
+            "front": "What makes you lose respect for someone instantly?",
+            "back": "Instant deal-breakers reflect values you hold as sacred—honesty, kindness, courage, or accountability."
+        },
+        {
+            "id": "pv_28",
+            "front": "In moments of crisis, what inner voice or principle do you rely on most?",
+            "back": "Crisis anchors uncover the most resilient core values that sustain you under pressure."
+        },
+        {
+            "id": "pv_29",
+            "front": "What do you wish people understood about you without you having to explain?",
+            "back": "Unspoken wishes reveal values or struggles you feel are misunderstood, pointing to deep needs for validation."
+        },
+        {
+            "id": "pv_30",
+            "front": "If your life were a story, what theme would you want it to carry?",
+            "back": "Chosen life themes encapsulate the overarching values—redemption, growth, love, truth—that you seek to live by."
+        }
+    ]
+}

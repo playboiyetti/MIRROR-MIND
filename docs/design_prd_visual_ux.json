@@ -1,0 +1,139 @@
+{
+    "platforms": [
+        "iOS",
+        "Android"
+    ],
+    "designSystem": {
+        "theme": "luxury-dark-psychological",
+        "safeArea": true,
+        "background": {
+            "base": "#000000",
+            "gradient": {
+                "enabled": true,
+                "colors": [
+                    "#000000",
+                    "#0B0B12"
+                ],
+                "angle": 180
+            },
+            "noiseOverlay": {
+                "enabled": true,
+                "opacity": 0.03
+            }
+        },
+        "colors": {
+            "accentPrimary": "#9B5CFF",
+            "accentDanger": "#FF3B5C",
+            "accentMind": "#3AFFD8",
+            "accentGold": "#FFC857",
+            "textPrimary": "#FFFFFF",
+            "textSecondary": "rgba(255,255,255,0.68)",
+            "textMuted": "rgba(255,255,255,0.42)",
+            "divider": "rgba(255,255,255,0.08)"
+        },
+        "typography": {
+            "fontPrimary": "SF Pro Display",
+            "fontAndroidFallback": "Roboto",
+            "weights": {
+                "light": 300,
+                "regular": 400,
+                "medium": 500,
+                "semibold": 600
+            },
+            "sizes": {
+                "display": 36,
+                "title": 28,
+                "subtitle": 18,
+                "body": 15,
+                "caption": 12
+            },
+            "lineHeight": {
+                "tight": 1.1,
+                "normal": 1.4
+            }
+        },
+        "motion": {
+            "easing": "cubic-bezier(0.22,1,0.36,1)",
+            "durations": {
+                "tap": 120,
+                "cardFlip": 620,
+                "screenTransition": 480,
+                "fade": 320
+            },
+            "haptics": {
+                "light": true,
+                "medium": true,
+                "heavy": false
+            }
+        }
+    },
+    "components": {
+        "card": {
+            "size": {
+                "width": "82%",
+                "aspectRatio": 0.66
+            },
+            "cornerRadius": 24,
+            "background": "rgba(18,18,22,0.88)",
+            "border": "rgba(255,255,255,0.06)",
+            "shadow": {
+                "y": 18,
+                "blur": 40,
+                "color": "rgba(0,0,0,0.9)"
+            },
+            "interaction": {
+                "tapScale": 1.04,
+                "holdReveal": true,
+                "focusBlur": true
+            }
+        },
+        "primaryButton": {
+            "placement": "bottomCenter",
+            "height": 54,
+            "radius": 16,
+            "background": "linear-gradient(135deg, #9B5CFF, #6E44FF)",
+            "textColor": "#FFFFFF"
+        },
+        "secondaryButton": {
+            "height": 48,
+            "radius": 14,
+            "background": "rgba(255,255,255,0.06)",
+            "textColor": "#FFFFFF"
+        },
+        "gesture": {
+            "swipe": {
+                "left": "reject",
+                "right": "accept",
+                "up": "inspect"
+            },
+            "longPress": {
+                "duration": 420,
+                "action": "cardReveal"
+            }
+        }
+    },
+    "screens": {
+        "splash": {
+            "duration": 1600,
+            "logoFadeIn": true,
+            "ambientSound": true
+        },
+        "home": {
+            "layout": "singleCardFocus",
+            "backgroundMotion": "slowGradientShift",
+            "hintText": "Swipe or hold to reveal"
+        },
+        "cardReveal": {
+            "animation": "3DFlip",
+            "lighting": "centerGlow",
+            "sound": "lowPulse"
+        },
+        "decision": {
+            "buttons": [
+                "accept",
+                "reject"
+            ],
+            "delayBeforeChoice": 800
+        }
+    }
+}

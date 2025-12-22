@@ -1,0 +1,158 @@
+{
+    "id": "daily_habits_routines",
+    "name": "Daily Habits and Routines",
+    "themeColor": "#6B7280",
+    "description": "Discover the hidden psychological drivers behind your structure, avoidance, and how you anchor your days.",
+    "questions": [
+        {
+            "id": "dhr_01",
+            "front": "What is the very first thing you do after waking up that you didn't planned?",
+            "back": "Impulsive morning actions reveal your most immediate subconscious needs—seeking distraction, comfort, or connection."
+        },
+        {
+            "id": "dhr_02",
+            "front": "Which part of your morning routine do you rush through the most?",
+            "back": "Rushed moments often signal avoidance or resistance to the specific state or task those moments represent."
+        },
+        {
+            "id": "dhr_03",
+            "front": "Where in your home do you feel most like you're 'on the clock' even when you're not working?",
+            "back": "Conditioned spaces reveal where you have tethered your worth to productivity rather than presence."
+        },
+        {
+            "id": "dhr_04",
+            "front": "What is a small, seemingly 'useless' habit you maintain out of pure comfort?",
+            "back": "Comfort habits act as psychological anchors, providing stability when internal or external chaos rises."
+        },
+        {
+            "id": "dhr_05",
+            "front": "Which daily task do you procrastinate on, even though it takes less than 5 minutes?",
+            "back": "Avoidance of simple tasks often masks a deeper fear of perfectionism or the emotional weight of beginning."
+        },
+        {
+            "id": "dhr_06",
+            "front": "How does your routine change when you are feeling low or overwhelmed?",
+            "back": "Stress-modified routines reveal your primary coping mechanism—retreat, over-functioning, or seeking sensory soothing."
+        },
+        {
+            "id": "dhr_07",
+            "front": "What is one thing you 'must' check on your phone before starting your day?",
+            "back": "First-check habits reveal what you believe you must monitor to feel safe or relevant in the world."
+        },
+        {
+            "id": "dhr_08",
+            "front": "Describe a ritual you have for ending your day—why does it matter?",
+            "back": "Closing rituals signify the transition to rest and your capacity to release the day's psychological burdens."
+        },
+        {
+            "id": "dhr_09",
+            "front": "What is a 'habit of silence' you have—when and where do you seek it?",
+            "back": "Periods of sought silence reveal your tolerance for introspection and the depth of your internal world."
+        },
+        {
+            "id": "dhr_10",
+            "front": "Recall a habit you've tried and failed to build multiple times—what was it?",
+            "back": "Failed habits often represent a conflict between who you think you 'should' be and who you actually are."
+        },
+        {
+            "id": "dhr_11",
+            "front": "Which chore or task do you do specifically to feel a sense of control?",
+            "back": "Control tasks reveal the areas of life where you feel most vulnerable to unpredictability."
+        },
+        {
+            "id": "dhr_12",
+            "front": "What is a sensory habit you have, like lighting a candle or listening to certain music?",
+            "back": "Sensory anchors are direct pathways to emotional regulation, showing how you self-parent through the environment."
+        },
+        {
+            "id": "dhr_13",
+            "front": "How do you handle a sudden disruption to your planned schedule?",
+            "back": "Adaptability or rigidity to disruption reveals your underlying relationship with authority and safety."
+        },
+        {
+            "id": "dhr_14",
+            "front": "What is a habit you perform that you suspect is actually a form of avoidance?",
+            "back": "Productive-looking avoidance highlights the tension between performing and actually being."
+        },
+        {
+            "id": "dhr_15",
+            "front": "Recall a habit from your childhood that you still find yourself doing today.",
+            "back": "Childhood leftovers signify unresolved needs for comfort or continuity carried into adult life."
+        },
+        {
+            "id": "dhr_16",
+            "front": "What is the most 'performative' part of your daily routine—who is it for?",
+            "back": "Performative habits expose the masks you wear to maintain social belonging or status."
+        },
+        {
+            "id": "dhr_17",
+            "front": "How do you treat yourself when you break a habit you wanted to keep?",
+            "back": "Responses to failure reveal the harshness or compassion of your internalized authority figure."
+        },
+        {
+            "id": "dhr_18",
+            "front": "What is a habit you share with no one else—why is it private?",
+            "back": "Private habits protect the most intimate, unpolished parts of self from external perception."
+        },
+        {
+            "id": "dhr_19",
+            "front": "Which daily routine makes you feel most 'at home' in your own skin?",
+            "back": "Authentic routines align your external actions with your internal sense of dignity and peace."
+        },
+        {
+            "id": "dhr_20",
+            "front": "What is a 'habit of thought' you find yourself slipping into when you're bored?",
+            "back": "Boredom thoughts reveal the default emotional tracks your subconscious travels when unguided."
+        },
+        {
+            "id": "dhr_21",
+            "front": "How do you distinguish between a 'break' and 'dropping the ball' in your own mind?",
+            "back": "Definitions of rest reveal your underlying beliefs about meritocracy and personal worth."
+        },
+        {
+            "id": "dhr_22",
+            "front": "What is a habit you've adopted purely from someone else—why did you keep it?",
+            "back": "Adopted habits show the influence of those you admire or feel a need to please."
+        },
+        {
+            "id": "dhr_23",
+            "front": "Which part of your routine feels most restrictive, yet you won't let go?",
+            "back": "Restrictive but persistent habits signal a fear of the chaos that might ensue if boundaries were removed."
+        },
+        {
+            "id": "dhr_24",
+            "front": "Recall a time a habit saved you during a crisis—what was it?",
+            "back": "Crisis-proof habits highlight your most resilient structures for maintaining sanity under pressure."
+        },
+        {
+            "id": "dhr_25",
+            "front": "What is a 'habit of grace' you extend to yourself daily?",
+            "back": "Self-grace habits indicate your level of emotional matureness and capacity for self-forgiveness."
+        },
+        {
+            "id": "dhr_26",
+            "front": "How do your habits change when you are on vacation versus at home?",
+            "back": "The shift in habits reveals the difference between your 'survival self' and your 'exploratory self'."
+        },
+        {
+            "id": "dhr_27",
+            "front": "What is a habit you've had to force, but now you find effortless?",
+            "back": "Effortless forced habits show the successful integration of a new identity into your self-concept."
+        },
+        {
+            "id": "dhr_28",
+            "front": "Which daily action makes you feel most connected to the world around you?",
+            "back": "Connection habits counteract isolation and reveal your primary gateway to feeling part of something larger."
+        },
+        {
+            "id": "dhr_29",
+            "front": "What is a habit you'd be embarrassed for an observer to see?",
+            "back": "Embarrassing habits touch on shame points—often relating to needs you consider 'weak' or 'silly'."
+        },
+        {
+            "id": "dhr_30",
+            "front": "If your daily routine were a musical composition, what would the tempo and volume be like?",
+            "back": "Musical metaphors capture the overall energetic tone and stress level of your habitual life."
+        }
+    ]
+}

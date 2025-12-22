@@ -1,0 +1,158 @@
+{
+    "id": "creativity_inner_expression",
+    "name": "Creativity and Inner Expression",
+    "themeColor": "#FDB813",
+    "description": "Unlock the pathways of your unique self-expression, creative flow, and the artistic 'voice' within.",
+    "questions": [
+        {
+            "id": "cie_01",
+            "front": "What was the very first thing you ever 'made' that you felt proud of?",
+            "back": "Early creative pride marks the moment you first recognized your capacity to change the world through your own agency."
+        },
+        {
+            "id": "cie_02",
+            "front": "In what medium do you feel your 'truest' voice comes out—words, music, movement, or something else?",
+            "back": "Your preferred medium is the sensory pathway that has the least internal resistance for your subconscious to reach the surface."
+        },
+        {
+            "id": "cie_03",
+            "front": "Describe the feeling of 'creative flow'—where do you lose yourself in that process?",
+            "back": "The location of 'loss of self' in flow reveals the part of your ego that most needs to be silenced for authentic creation."
+        },
+        {
+            "id": "cie_04",
+            "front": "What is a 'failed' creative project you still think about—what went wrong?",
+            "back": "Unresolved projects often hold 'stuck' creative energy or lessons about your fear of incompletion or judgment."
+        },
+        {
+            "id": "cie_05",
+            "front": "Who is one artist or creator whose work feels like it was 'written for you'?",
+            "back": "Artistic resonance highlights the specific emotional or philosophical frequencies you are most attuned to."
+        },
+        {
+            "id": "cie_06",
+            "front": "What is the most 'daring' thing you’ve ever done in your creative life?",
+            "back": "Creative risks reveal the boundaries of your self-trust and the specific areas where you feel most safe to be 'radical'."
+        },
+        {
+            "id": "cie_07",
+            "front": "When was the last time you felt 'creative envy'—what did that envy want you to know?",
+            "back": "Envy is a tool for self-discovery; the work of others you covet is often the work your own soul is longing to produce."
+        },
+        {
+            "id": "cie_08",
+            "front": "Recall a 'secret' creative project you have that you've never shown anyone—why the secrecy?",
+            "back": "Secret work protects the 'unpolished' self from the harshness of external critique, holding space for pure experiment."
+        },
+        {
+            "id": "cie_09",
+            "front": "How does your creativity change when you are feeling a strong emotion—grief, or joy?",
+            "back": "The shift in creative output reveals whether you use art to avoid your feelings or to process and transform them."
+        },
+        {
+            "id": "cie_10",
+            "front": "What is one 'creative rule' you find yourself following that you'd like to break?",
+            "back": "Identifying creative rules exposes the internalized voices of teachers or critics that still constrain your expression."
+        },
+        {
+            "id": "cie_11",
+            "front": "If you could collaborate with any person, living or dead, on a project, who would it be?",
+            "back": "Your ideal collaborator represents the 'missing' piece of your own creative psyche—the qualities you admire but struggle to access."
+        },
+        {
+            "id": "cie_12",
+            "front": "What sound, smell, or sight acts as an instant 'creative trigger' for you?",
+            "back": "Creative triggers are sensory anchors that signal to your subconscious that it is safe and time to begin the work of expression."
+        },
+        {
+            "id": "cie_13",
+            "front": "Describe a time you 'fixed' something in a way that felt uniquely yours.",
+            "back": "Problem-solving is a form of design; your unique solutions reveal the specific way you perceive and interact with structure."
+        },
+        {
+            "id": "cie_14",
+            "front": "What is the 'inner critic's' favorite thing to say to you when you are creating?",
+            "back": "Naming the inner critic's script allows you to separate your authentic creative impulse from the voices of shame or perfectionism."
+        },
+        {
+            "id": "cie_15",
+            "front": "Recall a moment your creativity 'surprised' you—something came out that you didn't think you had in you.",
+            "back": "Creative surprises are glimpses into the 'excess' of your subconscious—the untapped potential that lies beyond your planned identity."
+        },
+        {
+            "id": "cie_16",
+            "front": "What is a 'childish' form of expression you'd love to revisit—finger painting, building blocks, etc.?",
+            "back": "Revisiting childhood play bypasses adult 'result-oriented' thinking, returning you to the pure joy of process over product."
+        },
+        {
+            "id": "cie_17",
+            "front": "How much of your 'inner world' do you think is actually communicable to others?",
+            "back": "Your belief about the 'uncommunicable' parts of self reveals your level of existential loneliness versus perceived connection."
+        },
+        {
+            "id": "cie_18",
+            "front": "What is the most 'beautiful' thing you've ever thought of, regardless of whether you could make it?",
+            "back": "The concepts we hold as 'most beautiful' are the blueprints for our highest aesthetic and moral ideals."
+        },
+        {
+            "id": "cie_19",
+            "front": "How do you 'recharge' your creative well when it feels completely empty?",
+            "back": "Your recharging methods reveal the sources of your inspiration—whether they are intellectual, physical, or spiritual."
+        },
+        {
+            "id": "cie_20",
+            "front": "When someone criticizes your work, do you immediately assume they are right, or that they don't get 'it'?",
+            "back": "Response to critique shows the stability of your creative identity and your ability to distinguish between taste and quality."
+        },
+        {
+            "id": "cie_21",
+            "front": "What is a 'creative habit' you've seen in someone else that you find fascinating or intimidating?",
+            "back": "Fascinating habits in others are often 'previews' of traits you are ready to integrate into your own discipline."
+        },
+        {
+            "id": "cie_22",
+            "front": "If your life's 'inner expression' were a color palette, what three colors would dominate?",
+            "back": "Color palettes capture the overall emotional and energetic 'vibe' of your inner life in a non-linear, intuitive way."
+        },
+        {
+            "id": "cie_23",
+            "front": "Recall a time you 'lost' your creativity—what happened to bring it back?",
+            "back": "The return of creativity often involves a shift in environment or the removal of a specific psychological burden."
+        },
+        {
+            "id": "cie_24",
+            "front": "What is the 'price' you are willing to pay for your creative freedom?",
+            "back": "Determining the 'price' reveals what you value most—social approval, wealth, or the purity of your expressive voice."
+        },
+        {
+            "id": "cie_25",
+            "front": "What is a 'dream medium' you've never tried because it feels too difficult?",
+            "back": "Avoided difficult mediums often represent the areas where you most fear being a 'beginner' or incompetent."
+        },
+        {
+            "id": "cie_26",
+            "front": "When was the last time you created something just for yourself, with no intention of showing it?",
+            "back": "Private creation is the 'seed' of authentic style, free from the pruning expectations of an audience."
+        },
+        {
+            "id": "cie_27",
+            "front": "If you could inhabit the mind of one historical creator for an hour, who would it be?",
+            "back": "The desired mind to inhabit reveals the specific 'way of seeing' you find most profound or mysterious."
+        },
+        {
+            "id": "cie_28",
+            "front": "What is one 'vision' you have for your creative work that you've never shared?",
+            "back": "Unshared visions are the sacred 'north stars' that quietly guide your efforts, often too fragile for public air."
+        },
+        {
+            "id": "cie_29",
+            "front": "How do you want people to 'feel' when they experience something you've created?",
+            "back": "The desired emotional output for your audience is a mirror for the emotional input you most want to receive from the world."
+        },
+        {
+            "id": "cie_30",
+            "front": "If your inner expression were an animal, what would it be—is it tame, or wild?",
+            "back": "Animal metaphors for creativity reveal whether you perceive your talent as something to be controlled or something to be followed."
+        }
+    ]
+}

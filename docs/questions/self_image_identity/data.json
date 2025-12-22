@@ -1,0 +1,158 @@
+{
+    "id": "self_image_identity",
+    "name": "Self-Image and Identity",
+    "themeColor": "#3AFFD8",
+    "description": "Explore core self-concept, internalized narratives, masks, and how you construct your sense of identity.",
+    "questions": [
+        {
+            "id": "sii_01",
+            "front": "What physical feature do you notice first when you see yourself in photos?",
+            "back": "The first-noticed feature often carries the heaviest emotional weight, reflecting acceptance or criticism toward the self."
+        },
+        {
+            "id": "sii_02",
+            "front": "Choose three adjectives that feel most \"you\" right now—what are they?",
+            "back": "Current self-descriptors reveal the fluid aspects of identity you are most aligned with or defending."
+        },
+        {
+            "id": "sii_03",
+            "front": "What is something you love about yourself that you rarely say out loud?",
+            "back": "Quietly cherished traits highlight parts of identity you protect from external judgment or disbelief."
+        },
+        {
+            "id": "sii_04",
+            "front": "When do you feel least like \"yourself\" in daily situations?",
+            "back": "Moments of disconnection expose roles or environments that conflict with your authentic core."
+        },
+        {
+            "id": "sii_05",
+            "front": "What label from your past still subtly influences how you see yourself?",
+            "back": "Lingering old labels show how early definitions continue to shape self-perception and behavior."
+        },
+        {
+            "id": "sii_06",
+            "front": "Recall a time someone described you in a way that felt completely wrong—what was it?",
+            "back": "Strong rejection of misdescriptions guards the boundaries of your true self-image."
+        },
+        {
+            "id": "sii_07",
+            "front": "What part of your personality do you tone down around most people?",
+            "back": "Suppressed traits often represent feared or unaccepted aspects you believe would disrupt belonging."
+        },
+        {
+            "id": "sii_08",
+            "front": "If you could change one story you tell yourself about who you are, what would it be?",
+            "back": "Desired narrative shifts reveal the limiting beliefs most restricting your sense of identity."
+        },
+        {
+            "id": "sii_09",
+            "front": "What achievement are you most tempted to define yourself by?",
+            "back": "Over-identified accomplishments expose where self-worth is conditionally anchored."
+        },
+        {
+            "id": "sii_10",
+            "front": "How does your inner voice speak to you in private moments—kindly or critically?",
+            "back": "Self-talk tone mirrors the internalized parental or societal gaze shaping your identity."
+        },
+        {
+            "id": "sii_11",
+            "front": "What role do you play in your family that feels most defining?",
+            "back": "Familial roles often solidify early identity scripts that persist into adulthood."
+        },
+        {
+            "id": "sii_12",
+            "front": "Think of a time you surprised yourself by acting differently than expected—what happened?",
+            "back": "Unexpected behaviors reveal dormant or emerging parts of identity seeking expression."
+        },
+        {
+            "id": "sii_13",
+            "front": "What clothing or style choice makes you feel most like your true self?",
+            "back": "External presentations reflect how you wish to broadcast or align with inner identity."
+        },
+        {
+            "id": "sii_14",
+            "front": "What flaw do you accept in others but judge harshly in yourself?",
+            "back": "Self-directed judgment highlights perfectionistic standards tied to fragile self-image."
+        },
+        {
+            "id": "sii_15",
+            "front": "When was the last time you felt proud of who you are becoming?",
+            "back": "Pride in evolution signals moments when growth aligns with desired identity."
+        },
+        {
+            "id": "sii_16",
+            "front": "What nickname, past or present, carries emotional weight for you?",
+            "back": "Charged nicknames often encapsulate pivotal identity moments—affirmation or wounding."
+        },
+        {
+            "id": "sii_17",
+            "front": "How do you introduce yourself when you want to make a strong impression?",
+            "back": "Chosen introductions reveal the facets of identity you believe hold the most value."
+        },
+        {
+            "id": "sii_18",
+            "front": "What part of your life story do you leave out when meeting new people?",
+            "back": "Omitted chapters protect vulnerable or stigmatized elements of self-narrative."
+        },
+        {
+            "id": "sii_19",
+            "front": "Recall a mirror moment where you truly liked who was looking back—why then?",
+            "back": "Rare self-liking moments illuminate conditions for authentic self-acceptance."
+        },
+        {
+            "id": "sii_20",
+            "front": "What strength do others see in you that you struggle to claim?",
+            "back": "Unclaimed strengths point to humility, impostor feelings, or fear of responsibility."
+        },
+        {
+            "id": "sii_21",
+            "front": "How has your sense of humor shaped how you see yourself?",
+            "back": "Humor style often serves as armor or bridge, revealing core defenses or connections."
+        },
+        {
+            "id": "sii_22",
+            "front": "What cultural or group identity feels most central to who you are?",
+            "back": "Primary affiliations highlight the collective mirrors most influencing personal identity."
+        },
+        {
+            "id": "sii_23",
+            "front": "When do you feel most invisible in social settings?",
+            "back": "Invisibility triggers expose fears that core aspects of self are unseeable or unworthy."
+        },
+        {
+            "id": "sii_24",
+            "front": "What childhood belief about yourself do you still quietly hold?",
+            "back": "Persistent childhood beliefs form the bedrock of self-image, often unconsciously."
+        },
+        {
+            "id": "sii_25",
+            "front": "Think of a time you reinvented yourself—what sparked the change?",
+            "back": "Reinventions mark pivotal identity crises or liberations from outdated self-concepts."
+        },
+        {
+            "id": "sii_26",
+            "front": "What do you fear becoming as you move through life?",
+            "back": "Dreaded future selves reveal the negative identity poles you actively resist."
+        },
+        {
+            "id": "sii_27",
+            "front": "How does being alone affect how you experience yourself?",
+            "back": "Solitary self-experience strips social mirrors, showing raw, unperformed identity."
+        },
+        {
+            "id": "sii_28",
+            "front": "What personal quality do you hope grows stronger with age?",
+            "back": "Hoped-for growth areas point to identity elements you are intentionally cultivating."
+        },
+        {
+            "id": "sii_29",
+            "front": "Recall a moment someone truly \"saw\" you—what did they notice?",
+            "back": "Being deeply seen validates hidden or longed-for aspects of authentic identity."
+        },
+        {
+            "id": "sii_30",
+            "front": "If you met your exact duplicate, what would you hope they admire about you?",
+            "back": "Desired admiration from a mirror self exposes the self-love you seek but may withhold."
+        }
+    ]
+}
