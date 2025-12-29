@@ -1,8 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import Card from './components/Card';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ChevronLeft, ChevronRight, Info, Settings, Sparkles, LayoutGrid } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Settings, Sparkles, LayoutGrid, TrendingUp, Flame } from 'lucide-react';
 import { getCategories, getQuestionsByCategory } from './services/api';
+import { useProgress } from './hooks/useProgress';
+import ProgressDashboard from './components/ProgressDashboard';
+import MilestoneCelebration from './components/MilestoneCelebration';
+import MirrorAvatar from './components/MirrorAvatar';
 
 function App() {
   const [categories, setCategories] = useState([]);
@@ -11,7 +15,16 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [showCategories, setShowCategories] = useState(false);
   const [reflection, setReflection] = useState('');
-  const [isRecording, setIsRecording] = useState(false);
+  const [showProgress, setShowProgress] = useState(false);
+  const [celebrationAchievement, setCelebrationAchievement] = useState(null);
+
+  const {
+    profile,
+    categoryProgress,
+    achievements,
+    loading: progressLoading,
+    saveReflection: saveProgressReflection,
+  } = useProgress();
 
   useEffect(() => {
     const init = async () => {
@@ -84,15 +97,31 @@ function App() {
             <p className="text-[10px] text-textMuted uppercase tracking-widest font-medium">Digital Introspection</p>
           </div>
         </div>
-        <div className="flex gap-4">
+        <div className="flex gap-4 items-center">
+          {profile && profile.current_streak > 0 && (
+            <motion.button
+              initial={{ scale: 0 }}
+              animate={{ scale: 1 }}
+              onClick={() => setShowProgress(true)}
+              className="flex items-center gap-2 px-4 py-2 rounded-2xl clay-button"
+            >
+              <Flame className="w-4 h-4 text-accentPrimary" />
+              <span className="text-sm font-semibold">{profile.current_streak}</span>
+            </motion.button>
+          )}
+
+          <button
+            onClick={() => setShowProgress(true)}
+            className="w-12 h-12 rounded-2xl clay-button flex items-center justify-center"
+          >
+            <TrendingUp className="w-5 h-5 text-textSecondary" />
+          </button>
+
           <button
             onClick={() => setShowCategories(true)}
             className="w-12 h-12 rounded-2xl clay-button flex items-center justify-center"
           >
             <LayoutGrid className="w-5 h-5 text-textSecondary" />
-          </button>
-          <button className="w-12 h-12 rounded-2xl clay-button flex items-center justify-center">
-            <Settings className="w-5 h-5 text-textSecondary" />
           </button>
         </div>
       </header>
@@ -133,9 +162,31 @@ function App() {
               />
               <button
                 className="w-full py-3 rounded-xl clay-button text-[12px] uppercase tracking-widest font-medium text-accentPrimary"
-                onClick={() => {
-                  alert('Reflection saved to mirror!');
-                  setReflection('');
+                onClick={async () => {
+                  if (!reflection.trim()) return;
+
+                  const questionData = {
+                    id: currentQuestion.id,
+                    categoryId: currentQuestion.categoryId,
+                    categoryName: categories.find(c => c.id === currentQuestion.categoryId)?.name || 'Reflection',
+                    front: currentQuestion.front,
+                    intensityLevel: currentQuestion.intensityLevel || 1,
+                  };
+
+                  const savedReflection = await saveProgressReflection(questionData, reflection);
+
+                  if (savedReflection) {
+                    const previousAchievementCount = achievements.length;
+
+                    setTimeout(async () => {
+                      const newAchievements = achievements.slice(previousAchievementCount);
+                      if (newAchievements.length > 0) {
+                        setCelebrationAchievement(newAchievements[0]);
+                      }
+                    }, 500);
+
+                    setReflection('');
+                  }
                 }}
               >
                 Save Insight
@@ -226,6 +277,22 @@ function App() {
           </motion.div>
         )}
       </AnimatePresence>
+
+      {/* Progress Dashboard */}
+      {showProgress && (
+        <ProgressDashboard
+          profile={profile}
+          categoryProgress={categoryProgress}
+          achievements={achievements}
+          onClose={() => setShowProgress(false)}
+        />
+      )}
+
+      {/* Milestone Celebration */}
+      <MilestoneCelebration
+        achievement={celebrationAchievement}
+        onClose={() => setCelebrationAchievement(null)}
+      />
     </div>
   );
 }
